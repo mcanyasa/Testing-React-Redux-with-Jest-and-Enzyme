@@ -1,5 +1,16 @@
 body {
-    margin: 0;
-    padding: 0;
-    background: lightgray;
+  margin: 0;
+  padding: 0;
+  background: lightgray;
+}
+
+.main {
+  width: 100%;
+  max-width: 980px;
+  margin: 20px auto 80px;
+  padding: 0 10px;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  line-height: 22px;
+  font-size: 18px;
+  color: #121212;
 }
